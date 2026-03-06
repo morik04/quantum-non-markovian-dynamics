@@ -31,10 +31,14 @@ pip install -r requirements.txt
 
 ## Usage
 
-Launch Jupyter and open any notebook:
-
-```bash
-jupyter notebook
-```
-
 To run notebooks on real IBM quantum hardware, set up your IBM Quantum account credentials via `QiskitRuntimeService`.
+
+## 👤 Author Information
+
+**Morik Aghayan**  
+Physics Major w/ Computer Science Minor | Researcher & Qiskit Advocate
+Research focus: **Quantum algorithms, open-system simulation, and circuit optimization**
+
+📧 morik.aghayan@gmail.com  
+🌐 [GitHub: morik04](https://github.com/morik04)  
+🔗 [LinkedIn](https://www.linkedin.com/in/morik-aghayan/)
