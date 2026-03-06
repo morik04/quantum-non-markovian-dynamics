@@ -7,9 +7,9 @@ This repository contains Jupyter notebooks for simulating **non-Markovian open q
 | Notebook | Description |
 |---|---|
 | `Time_dependent_hamiltonian.ipynb` | Simulates time-dependent Hamiltonian evolution using Trotter-Suzuki decomposition on 2–3 qubit systems, comparing exact and approximate results on both local simulators and real IBM quantum hardware. |
-| `Walsh_Circuit.ipynb` | Implements unitary dilation to encode non-unitary matrices as quantum circuits via SVD decomposition and block-diagonal Kraus operators. |
+| `unitary_dilation.ipynb` | Implements unitary dilation to encode non-unitary matrices as quantum circuits via SVD decomposition and block-diagonal Kraus operators. |
 | `heat_bath.ipynb` | Models an open quantum system coupled to a Brownian oscillator heat bath, computing spectral coupling functions, bath frequencies, and coupling constants. |
-| `optimal_walsh_update.ipynb` | Optimizes diagonal unitary compilation using the Walsh-Hadamard Transform and Gray codes to minimize CNOT and RZ gate counts. |
+| `optimal_walsh_circuit.ipynb` | Optimizes diagonal unitary compilation using the Walsh-Hadamard Transform and Gray codes to minimize CNOT and RZ gate counts. |
 | `sampling.ipynb` | Samples position and momentum variables from thermal distributions of a quantum harmonic oscillator using Gaussian statistics. |
 
 ## Requirements
