@@ -29,12 +29,15 @@ pip install -r requirements.txt
 - [Qiskit Aer](https://github.com/Qiskit/qiskit-aer) – local quantum circuit simulator
 - [Qiskit IBM Runtime](https://github.com/Qiskit/qiskit-ibm-runtime) – execution on IBM quantum hardware
 
-## Usage
-
-Launch Jupyter and open any notebook:
-
-```bash
-jupyter notebook
-```
+### Usage
 
 To run notebooks on real IBM quantum hardware, set up your IBM Quantum account credentials via `QiskitRuntimeService`.
+
+## Author Information
+
+**Morik Aghayan**  
+Physics Major w/ Computer Science Minor | Researcher & Qiskit Advocate
+
+📧 morik.aghayan@gmail.com  
+🌐 [GitHub: morik04](https://github.com/morik04)  
+🔗 [LinkedIn](https://www.linkedin.com/in/morik-aghayan/)
